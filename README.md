@@ -18,3 +18,19 @@ Dark mode UI
 Technologies Used
 Python 3
 Tkinter
+
+Installation Process
+
+Clone the repository:
+``git clone https://github.com/your-username/calculator-app.git``
+
+Navigate to the project folder:
+``cd calculator-app``
+
+Run the application:
+``python calculator.py``
+
+Requirements
+Python 3.x
+
+Tkinter is included with most Python installations.
